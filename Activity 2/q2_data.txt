@@ -1,0 +1,9 @@
+
+data set for Question 2 
+
+10
+15
+45
+5
+20
+25
