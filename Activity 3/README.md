@@ -1,5 +1,4 @@
-# Building a RESTful API with CRUD
-Operations
+# Building a RESTful API with CRUD Operations
 
 This project is a simple API for managing notes. It allows users to create, read, update, and delete notes using HTTP requests.
 
