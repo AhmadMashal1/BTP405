@@ -73,6 +73,3 @@ Dummy Note 2:
 
 Contributions are welcome! Feel free to submit pull requests or open issues for any bugs or feature requests.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
